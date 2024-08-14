@@ -2,6 +2,7 @@
 
 - Binding Hook: https://bindinghook.com/articles-binding-edge/the-mechanisms-of-cyber-enabled-information-campaigning/
 - Binding Hook: https://bindinghook.com/articles-hooked-on-trends/the-rise-of-deepfakes-beyond-social-media/
+- FDD: https://www.fdd.org/analysis/2024/06/28/cognitive-combat/
 
 ## Threat actors
 
