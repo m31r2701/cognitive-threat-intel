@@ -1,5 +1,7 @@
 # 🧠 Awesome cognitive threat intelligence
 
+- Binding Hook: https://bindinghook.com/articles-binding-edge/the-mechanisms-of-cyber-enabled-information-campaigning/
+
 ## Threat actors
 
 ### Iran 🇮🇷
