@@ -1,6 +1,7 @@
 # 🧠 Awesome cognitive threat intelligence
 
 - Binding Hook: https://bindinghook.com/articles-binding-edge/the-mechanisms-of-cyber-enabled-information-campaigning/
+- Binding Hook: https://bindinghook.com/articles-hooked-on-trends/the-rise-of-deepfakes-beyond-social-media/
 
 ## Threat actors
 
