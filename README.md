@@ -19,6 +19,9 @@
 - FDD: https://www.fdd.org/analysis/2024/08/06/iranian-cyber-warfare-targeting-israel-seeks-to-exploit-fears-of-military-attack/
 - Iran International: https://www.iranintl.com/en/202408012272
 - ODNI: https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2024/3842-statement-from-director-of-national-intelligence-avril-haines-on-recent-iranian-influence-efforts
+- Semafor: https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation
+- Iran International: https://content.iranintl.com/en/investigates/covert-ties-between-iran-and-the-international-crisis-group/index.html
+- Iran International: https://content.iranintl.com/en/investigates/inside-tehran-softwar/index.html
 
 ### China 🇨🇳
 - Recorded Future: https://www.recordedfuture.com/research/covid-19-chinese-media-influence
