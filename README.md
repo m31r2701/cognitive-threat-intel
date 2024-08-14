@@ -1,1 +1,1 @@
-# cognitive-threat-intel
+# Awesome cognitive threat intelligence
