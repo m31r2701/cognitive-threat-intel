@@ -13,6 +13,7 @@
 - Recorded Future: https://www.recordedfuture.com/research/leaks-and-revelations-irgc-networks-cyber-companies
 - Recorded Future: https://www.recordedfuture.com/research/latin-americas-second-pink-tide-opens-avenues-iranian-influence
 - Microsoft: https://blogs.microsoft.com/on-the-issues/2024/08/08/iran-targeting-2024-us-election/
+- FDD: https://www.fdd.org/analysis/2024/08/06/iranian-cyber-warfare-targeting-israel-seeks-to-exploit-fears-of-military-attack/
 
 ### China 🇨🇳
 - Recorded Future: https://www.recordedfuture.com/research/covid-19-chinese-media-influence
