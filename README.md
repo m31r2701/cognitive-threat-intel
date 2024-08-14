@@ -12,6 +12,7 @@
 - Microsoft: [*Iran turning to cyber-enabled inﬂuence operations for greater eﬀect*](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/iran-turning-to-cyber-enabled-influence-operations-for-greater-effect/)
 - Recorded Future: https://www.recordedfuture.com/research/leaks-and-revelations-irgc-networks-cyber-companies
 - Recorded Future: https://www.recordedfuture.com/research/latin-americas-second-pink-tide-opens-avenues-iranian-influence
+- Microsoft: https://blogs.microsoft.com/on-the-issues/2024/08/08/iran-targeting-2024-us-election/
 
 ### China 🇨🇳
 - Recorded Future: https://www.recordedfuture.com/research/covid-19-chinese-media-influence
