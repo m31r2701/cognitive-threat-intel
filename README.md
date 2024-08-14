@@ -5,6 +5,7 @@
 - FDD: https://www.fdd.org/analysis/2024/06/28/cognitive-combat/
 - GIJN: https://gijn.org/stories/guide-investigating-digital-ad-libraries/
 - Digital Investigations (Substack): https://digitalinvestigations.substack.com/p/a-guide-to-investigating-digital
+- ISD: https://www.isdglobal.org/isd-publications/hoodwinked-coordinated-inauthentic-behaviour-on-facebook/
 
 ## Threat actors
 
