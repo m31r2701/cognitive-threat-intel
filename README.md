@@ -12,6 +12,7 @@
 - NATO: https://www.act.nato.int/activities/cognitive-warfare/
 - NATO: https://www.act.nato.int/article/cognitive-warfare-strengthening-and-defending-the-mind/
 - Lawfare: https://www.lawfaremedia.org/article/the-misbegotten-war-against-curation
+- NATO: https://www.nato.int/docu/review/articles/2021/05/20/countering-cognitive-warfare-awareness-and-resilience/index.html
 
 ## Threat actors
 
