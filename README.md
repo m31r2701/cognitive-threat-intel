@@ -38,6 +38,7 @@
 
 ### Russia 🇷🇺
 
+- Atlantic Council: https://www.atlanticcouncil.org/blogs/new-atlanticist/russian-war-report-dfrlab-releases-investigations-on-russian-info-ops-before-and-after-the-invasion/
 - Microsoft: [*Russian threat actors dig in, prepare to seize on war fatigue*](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/russian-threat-actors-dig-in-prepare-to-seize-on-war-fatigue/)
 - Recorded Future: https://www.recordedfuture.com/research/russia-seeks-exploit-western-war-fatigue-win-ukraine
 - Recorded Future: https://www.recordedfuture.com/research/russian-information-operations-divide-western-coalition-ukraine
