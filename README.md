@@ -9,6 +9,7 @@
 - Grey Dynamics: https://greydynamics.com/information-operations-israels-digital-siege-in-the-gaza-conflict/
 - Grey Dynamics: https://greydynamics.com/fake-news-misinformation-vs-disinformation/
 - Grey Dynamics: https://greydynamics.com/cognitive-vulnerabilities-information-warfare-then-vs-now/
+- NATO: https://www.act.nato.int/activities/cognitive-warfare/
 
 ## Threat actors
 
