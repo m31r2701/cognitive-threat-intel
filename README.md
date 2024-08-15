@@ -11,7 +11,7 @@
 - Grey Dynamics: https://greydynamics.com/cognitive-vulnerabilities-information-warfare-then-vs-now/
 - NATO: https://www.act.nato.int/activities/cognitive-warfare/
 - NATO: https://www.act.nato.int/article/cognitive-warfare-strengthening-and-defending-the-mind/
-
+- Lawfare: https://www.lawfaremedia.org/article/the-misbegotten-war-against-curation
 
 ## Threat actors
 
