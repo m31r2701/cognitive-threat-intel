@@ -36,6 +36,7 @@
 - Recorded Future: https://www.recordedfuture.com/research/russia-seeks-exploit-western-war-fatigue-win-ukraine
 - Recorded Future: https://www.recordedfuture.com/research/russian-information-operations-divide-western-coalition-ukraine
 - FBI et al.: https://www.ic3.gov/Media/News/2024/240709.pdf
+- Grey Dynamics: https://greydynamics.com/russian-influence-operations-in-spain/
 
 #### Doppelganger
 - Qurium: [*HOW RUSSIA USES EU COMPANIES FOR PROPAGANDA – Exposing The Evil Empire of Doppelganger Disinformation*](https://www.qurium.org/alerts/russia/exposing-the-evil-empire-of-doppelganger-disinformation/)
