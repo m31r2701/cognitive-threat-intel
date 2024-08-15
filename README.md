@@ -10,6 +10,8 @@
 - Grey Dynamics: https://greydynamics.com/fake-news-misinformation-vs-disinformation/
 - Grey Dynamics: https://greydynamics.com/cognitive-vulnerabilities-information-warfare-then-vs-now/
 - NATO: https://www.act.nato.int/activities/cognitive-warfare/
+- NATO: https://www.act.nato.int/article/cognitive-warfare-strengthening-and-defending-the-mind/
+
 
 ## Threat actors
 
