@@ -33,6 +33,7 @@
 ### China 🇨🇳
 - Recorded Future: https://www.recordedfuture.com/research/covid-19-chinese-media-influence
 - Hung et al.: https://academic.oup.com/jogss/article/7/4/ogac016/6647447
+- Defense One: https://www.defenseone.com/ideas/2023/10/chinas-social-media-attacks-are-part-larger-cognitive-warfare-campaign/391255/
 #### Green Cicada
 - ABC: [Beijing-based 'Green Cicada' AI network uncovered on social media, fears of US election disruption](https://www.abc.net.au/news/2024-08-13/green-cicada-beijing-ai-network-uncovered-social-media-x/104219752)
 #### Empire Dragon
