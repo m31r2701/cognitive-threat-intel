@@ -43,6 +43,7 @@
 - https://en.wikipedia.org/wiki/Facebook–Cambridge_Analytica_data_scandal
 - https://en.wikipedia.org/wiki/Public_diplomacy_of_Israel
 - https://en.wikipedia.org/wiki/Behavioural_Insights_Team
+- https://en.wikipedia.org/wiki/Management_of_Savagery
 
 ## Concepts and definitions
 
