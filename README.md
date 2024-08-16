@@ -22,14 +22,26 @@
 - https://www.japantimes.co.jp/news/2023/05/26/asia-pacific/china-pla-ai-cognitive-warfare/
 - https://www.penncerl.org/the-rule-of-law-post/beyond-defense-a-call-to-arms-for-cognitive-warfare/
 - https://hcss.nl/report/cognitive-warfare-as-part-of-society-never-ending-battle-for-minds/
-- https://en.wikipedia.org/wiki/Propaganda
-- https://en.wikipedia.org/wiki/Hybrid_warfare
-- https://en.wikipedia.org/wiki/History_of_propaganda
-- https://en.wikipedia.org/wiki/Black_propaganda
-- https://en.wikipedia.org/wiki/Psychological_warfare
 - https://en.wikipedia.org/wiki/Taliban_propaganda
 - https://en.wikipedia.org/wiki/Special_Activities_Center
+- https://en.wikipedia.org/wiki/Active_Measures_Working_Group
+- https://en.wikipedia.org/wiki/Category:Propaganda_by_country
+- https://en.wikipedia.org/wiki/History_of_propaganda
 - https://en.wikipedia.org/wiki/Public_opinion_brigades
+- https://en.wikipedia.org/wiki/Hearts_and_Minds_(Vietnam_War)
+- https://en.wikipedia.org/wiki/Hearts_and_minds_(Iraq)
+- https://en.wikipedia.org/wiki/Foreign_exploitation_of_American_race_relations
+- https://en.wikipedia.org/wiki/Cambridge_Analytica
+- https://en.wikipedia.org/wiki/Facebook–Cambridge_Analytica_data_scandal
+- https://en.wikipedia.org/wiki/Public_diplomacy_of_Israel
+- https://en.wikipedia.org/wiki/Behavioural_Insights_Team
+
+## Concepts and definitions
+
+- https://en.wikipedia.org/wiki/Propaganda
+- https://en.wikipedia.org/wiki/Hybrid_warfare
+- https://en.wikipedia.org/wiki/Black_propaganda
+- https://en.wikipedia.org/wiki/Psychological_warfare
 - https://en.wikipedia.org/wiki/Grey-zone_(international_relations)
 - https://en.wikipedia.org/wiki/Cognitive_dissonance
 - https://en.wikipedia.org/wiki/Propaganda_techniques
@@ -51,7 +63,6 @@
 - https://en.wikipedia.org/wiki/Regimes_of_truth
 - https://en.wikipedia.org/wiki/Troll_farm
 - https://en.wikipedia.org/wiki/Agent_of_influence
-- https://en.wikipedia.org/wiki/Active_Measures_Working_Group
 - https://en.wikipedia.org/wiki/Agent_provocateur
 - https://en.wikipedia.org/wiki/Bad-jacketing
 - https://en.wikipedia.org/wiki/Fifth_column
@@ -70,8 +81,6 @@
 - https://en.wikipedia.org/wiki/DARVO
 - https://en.wikipedia.org/wiki/Accusation_in_a_mirror
 - https://en.wikipedia.org/wiki/Winning_hearts_and_minds
-- https://en.wikipedia.org/wiki/Hearts_and_Minds_(Vietnam_War)
-- https://en.wikipedia.org/wiki/Hearts_and_minds_(Iraq)
 - https://en.wikipedia.org/wiki/Kompromat
 - https://en.wikipedia.org/wiki/Alternative_facts
 - https://en.wikipedia.org/wiki/Confirmation_bias
@@ -134,16 +143,11 @@
 - https://en.wikipedia.org/wiki/Sock_puppet_account
 - https://en.wikipedia.org/wiki/Astroturfing
 - https://en.wikipedia.org/wiki/Fake_news_website
-- https://en.wikipedia.org/wiki/Foreign_exploitation_of_American_race_relations
-- https://en.wikipedia.org/wiki/Public_diplomacy_of_Israel
 - https://en.wikipedia.org/wiki/Netpolitik
 - https://en.wikipedia.org/wiki/Social_influence
-- https://en.wikipedia.org/wiki/Behavioural_Insights_Team
 - https://en.wikipedia.org/wiki/Social_engineering_(security)
 - https://en.wikipedia.org/wiki/Scam
 - https://en.wikipedia.org/wiki/Social_capital
-- https://en.wikipedia.org/wiki/Cambridge_Analytica
-- https://en.wikipedia.org/wiki/Facebook–Cambridge_Analytica_data_scandal
 - https://en.wikipedia.org/wiki/Psychographics
 - https://en.wikipedia.org/wiki/Attitudinal_targeting
 - https://en.wikipedia.org/wiki/Targeted_advertising#Behavioral_targeting
@@ -163,7 +167,6 @@
 - https://en.wikipedia.org/wiki/Troll_(slang)
 - https://en.wikipedia.org/wiki/Misinformation
 - https://en.wikipedia.org/wiki/Political_warfare
-- https://en.wikipedia.org/wiki/Category:Propaganda_by_country
 - https://en.wikipedia.org/wiki/Spin_(propaganda)
 - https://en.wikipedia.org/wiki/Smear_campaign
 - https://en.wikipedia.org/wiki/Meme_hack
@@ -203,6 +206,7 @@
 - FBI et al.: https://www.ic3.gov/Media/News/2024/240709.pdf
 - Grey Dynamics: https://greydynamics.com/russian-influence-operations-in-spain/
 - https://en.wikipedia.org/wiki/Russian_web_brigades
+- https://en.wikipedia.org/wiki/Internet_Research_Agency
 
 #### Doppelganger
 - Qurium: [*HOW RUSSIA USES EU COMPANIES FOR PROPAGANDA – Exposing The Evil Empire of Doppelganger Disinformation*](https://www.qurium.org/alerts/russia/exposing-the-evil-empire-of-doppelganger-disinformation/)
