@@ -4,7 +4,7 @@
 
 1. [General](#general)
 2. [Concepts and definitions](#concepts-and-definitions)
-3. [Threat actors](threat-actors)
+3. [Threat actors](#threat-actors)
 
 ## General
 
