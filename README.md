@@ -203,6 +203,7 @@
 - The Diplomat: https://thediplomat.com/2024/05/chinas-chilling-cognitive-warfare-plans/
 #### Green Cicada
 - ABC: [Beijing-based 'Green Cicada' AI network uncovered on social media, fears of US election disruption](https://www.abc.net.au/news/2024-08-13/green-cicada-beijing-ai-network-uncovered-social-media-x/104219752)
+- https://cybercx.com.au/blog/cybercx-unmasks-china-linked-ai-disinformation-capability/
 #### Empire Dragon
 - Recorded Future: https://www.recordedfuture.com/research/empire-dragon-accelerates-covert-information-operations-converges-russian-narratives
 
