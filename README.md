@@ -196,6 +196,9 @@
 - Iran International: https://content.iranintl.com/en/investigates/covert-ties-between-iran-and-the-international-crisis-group/index.html
 - Iran International: https://content.iranintl.com/en/investigates/inside-tehran-softwar/index.html
 
+#### Green Charlie
+- https://go.recordedfuture.com/hubfs/reports/cta-ir-2024-0820.pdf
+
 ### China 🇨🇳
 - Recorded Future: https://www.recordedfuture.com/research/covid-19-chinese-media-influence
 - Hung et al.: https://academic.oup.com/jogss/article/7/4/ogac016/6647447
