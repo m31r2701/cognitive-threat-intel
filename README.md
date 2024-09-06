@@ -45,6 +45,7 @@
 - https://en.wikipedia.org/wiki/Public_diplomacy_of_Israel
 - https://en.wikipedia.org/wiki/Behavioural_Insights_Team
 - https://en.wikipedia.org/wiki/Management_of_Savagery
+- https://jcpa.org/hamass-capture-of-the-wests-sympathy-attention-and-media/
 
 ## Concepts and definitions
 
@@ -229,6 +230,8 @@
 - Recorded Future: https://www.recordedfuture.com/research/russian-influence-network-doppelgangers-ai-content-tactics
 - Indictment - https://www.justice.gov/opa/media/1366266/dl
 - Affidavit - https://www.justice.gov/opa/media/1366261/dl
+- https://www.justice.gov/opa/pr/two-rt-employees-indicted-covertly-funding-and-directing-us-company-published-thousands
+- https://www.justice.gov/opa/pr/justice-department-disrupts-covert-russian-government-sponsored-foreign-malign-influence
 
 ## Knock-on effects
 
