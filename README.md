@@ -227,6 +227,8 @@
 - Correctiv: [*Inside doppelganger: How Russia uses EU companies for its propaganda*](https://correctiv.org/en/fact-checking-en/2024/07/22/inside-doppelganger-how-russia-uses-eu-companies-for-its-propaganda/)
 - BfV (German internal security/intelligence agency): [*„DOPPELGÄNGER“. INTERNE DETAILS ZU RUSSISCHER DESINFORMATIONSKAMPAGNE. TEIL 2 – VOLLANALYSE*](https://www.verfassungsschutz.bayern.de/mam/anlagen/baylfv_vollanalyse_doppelgaenger.pdf)
 - Recorded Future: https://www.recordedfuture.com/research/russian-influence-network-doppelgangers-ai-content-tactics
+- Indictment - https://www.justice.gov/opa/media/1366266/dl
+- Affidavit - https://www.justice.gov/opa/media/1366261/dl
 
 ## Knock-on effects
 
