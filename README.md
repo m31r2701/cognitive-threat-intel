@@ -47,6 +47,12 @@
 - https://en.wikipedia.org/wiki/Management_of_Savagery
 - https://jcpa.org/hamass-capture-of-the-wests-sympathy-attention-and-media/
 - https://globalnews.ca/news/10813751/foreign-interference-inquiry-trudeau/
+- https://cloud.google.com/blog/topics/threat-intelligence/russian-espionage-influence-ukrainian-military-recruits-anti-mobilization-narratives
+- https://www.darkreading.com/cyber-risk/social-engineers-show-off-their-tricks
+- https://www.hackingbutlegal.com/p/disinformation-for-infosec-wonks
+- https://www.404media.co/ai-powered-social-media-manipulation-app-promises-to-shape-reality-4/
+- https://www.youtube.com/watch?v=gHqDEMrqTjE
+- https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation
 
 ## Concepts and definitions
 
