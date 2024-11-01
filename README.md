@@ -69,6 +69,7 @@
 - https://www.inss.org.il/wp-content/uploads/2020/03/Cyber4.1ENG_e-5-22.pdf
 - https://www.972mag.com/jewish-chronicle-elon-perry-netanyahu-intelligence/
 - https://www.bugeyedandshameless.com/p/so-youve-become-a-russian-asset
+- https://www.skopenow.com/news/navigating-false-information-during-osint?
 
 ## Concepts and definitions
 
