@@ -53,6 +53,20 @@
 - https://www.404media.co/ai-powered-social-media-manipulation-app-promises-to-shape-reality-4/
 - https://www.youtube.com/watch?v=gHqDEMrqTjE
 - https://www.semafor.com/article/09/25/2023/inside-irans-influence-operation
+- https://stratcomcoe.org/publications/download/Nato-Attributing-Information-Influence-Operations-DIGITAL-v4.pdf
+- https://carnegieendowment.org/research/2023/03/phase-based-tactical-analysis-of-online-operations?lang=en
+- https://www.rsaconference.com/library/blog/navigating-the-nexus-between-cyber-operations-and-influence-operations
+- https://www.rand.org/topics/information-operations.html
+- https://www.microsoft.com/en-gb/security/security-insider/browse-by-topic/cyber-influence-operations
+- https://www.thebureauinvestigates.com/tags/subject-influence-operations/
+- https://carnegieendowment.org/research/2021/06/measuring-the-effects-of-influence-operations-key-findings-and-gaps-from-empirical-research?lang=en#effects/?lang=en
+- https://www.atlanticcouncil.org/blogs/geotech-cues/scotch-a-framework-for-rapidly-assessing-influence-operations/
+- https://academic.oup.com/ijpor/article/36/3/edae022/7709018
+- https://www.jstor.org/stable/27033648
+- https://www.cisa.gov/topics/election-security/foreign-influence-operations-and-disinformation
+- https://www.lawfaremedia.org/article/brief-history-online-influence-operations
+- https://www.cisa.gov/resources-tools/resources/cisa-insights-preparing-and-mitigating-foreign-influence-operations-targeting-critical-0
+- https://www.inss.org.il/wp-content/uploads/2020/03/Cyber4.1ENG_e-5-22.pdf
 
 ## Concepts and definitions
 
