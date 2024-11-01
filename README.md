@@ -46,6 +46,7 @@
 - https://en.wikipedia.org/wiki/Behavioural_Insights_Team
 - https://en.wikipedia.org/wiki/Management_of_Savagery
 - https://jcpa.org/hamass-capture-of-the-wests-sympathy-attention-and-media/
+- https://globalnews.ca/news/10813751/foreign-interference-inquiry-trudeau/
 
 ## Concepts and definitions
 
