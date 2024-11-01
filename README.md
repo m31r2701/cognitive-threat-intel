@@ -67,6 +67,7 @@
 - https://www.lawfaremedia.org/article/brief-history-online-influence-operations
 - https://www.cisa.gov/resources-tools/resources/cisa-insights-preparing-and-mitigating-foreign-influence-operations-targeting-critical-0
 - https://www.inss.org.il/wp-content/uploads/2020/03/Cyber4.1ENG_e-5-22.pdf
+- https://www.972mag.com/jewish-chronicle-elon-perry-netanyahu-intelligence/
 
 ## Concepts and definitions
 
