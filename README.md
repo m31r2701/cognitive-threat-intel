@@ -71,6 +71,7 @@
 - https://www.bugeyedandshameless.com/p/so-youve-become-a-russian-asset
 - https://www.skopenow.com/news/navigating-false-information-during-osint?
 - https://www.osintcombine.com/post/investigating-spam-and-clickbait-networks
+- https://www.propublica.org/article/facebook-instagram-meta-deceptive-political-ads-election
 
 ## Concepts and definitions
 
