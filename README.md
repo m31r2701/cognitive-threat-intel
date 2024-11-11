@@ -72,6 +72,9 @@
 - https://www.skopenow.com/news/navigating-false-information-during-osint?
 - https://www.osintcombine.com/post/investigating-spam-and-clickbait-networks
 - https://www.propublica.org/article/facebook-instagram-meta-deceptive-political-ads-election
+- https://archive.is/udTHj
+- https://archive.is/5ISa0
+- https://archive.is/riRcV
 
 ## Concepts and definitions
 
