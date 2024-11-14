@@ -82,6 +82,11 @@
 - https://www.youtube.com/watch?v=HlUe0TUHOIc
 - https://www.youtube.com/watch?v=5gnpCqsXE8g
 - https://www.youtube.com/watch?v=yErKTVdETpw
+- https://assets.publishing.service.gov.uk/media/650c03bf52e73c000d9425bb/AJP_10_1_Info_Ops_UK_web.pdf
+- https://assets.publishing.service.gov.uk/media/5a80ce48e5274a2e87dbbecb/20150223-AJP_3_10_1_PSYOPS_with_UK_Green_pages.pdf
+- https://publications.parliament.uk/pa/cm200304/cmselect/cmdfence/57/5718.htm
+- https://tdhj.org/blog/post/cognitive-psychological-warfare/
+- https://committees.parliament.uk/writtenevidence/98958/html/
 
 ## Concepts and definitions
 
