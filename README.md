@@ -80,6 +80,8 @@
 - https://www.understandingwar.org/backgrounder/denying-russia’s-only-strategy-success
 - https://mattdpearce.substack.com/p/journalisms-fight-for-survival-in
 - https://www.youtube.com/watch?v=HlUe0TUHOIc
+- https://www.youtube.com/watch?v=5gnpCqsXE8g
+- https://www.youtube.com/watch?v=yErKTVdETpw
 
 ## Concepts and definitions
 
