@@ -75,6 +75,9 @@
 - https://archive.is/udTHj
 - https://archive.is/5ISa0
 - https://archive.is/riRcV
+- https://arxiv.org/abs/2403.16760
+- https://www.csis.org/analysis/crossing-deepfake-rubicon
+- https://www.understandingwar.org/backgrounder/denying-russia’s-only-strategy-success
 
 ## Concepts and definitions
 
