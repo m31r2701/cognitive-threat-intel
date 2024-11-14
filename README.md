@@ -79,6 +79,7 @@
 - https://www.csis.org/analysis/crossing-deepfake-rubicon
 - https://www.understandingwar.org/backgrounder/denying-russia’s-only-strategy-success
 - https://mattdpearce.substack.com/p/journalisms-fight-for-survival-in
+- https://www.youtube.com/watch?v=HlUe0TUHOIc
 
 ## Concepts and definitions
 
