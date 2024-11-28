@@ -103,6 +103,7 @@
 - https://crestresearch.ac.uk/categories/behavioural-analytics/
 - https://crestresearch.ac.uk/categories/ideology/
 - https://crestresearch.ac.uk/categories/disinformation/
+- https://www.dni.gov/files/documents/FOIA/DF-2022-00242-The-Games-They-Play-Russian-Strategic-Political-Deceptions.pdf
 
 ## Concepts and definitions
 
