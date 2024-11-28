@@ -92,6 +92,7 @@
 - https://www.fastcompany.com/91224580/teens-are-discovering-conspiracy-theories-on-social-media
   - HN discussion: https://news.ycombinator.com/item?id=42128933
 - https://euvsdisinfo.eu/
+- https://www.osintcombine.com/post/investigating-disinformation-online-using-osint
 
 ## Concepts and definitions
 
