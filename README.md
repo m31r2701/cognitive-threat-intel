@@ -91,6 +91,7 @@
 - https://journals.sagepub.com/doi/full/10.1177/09637214241280907
 - https://www.fastcompany.com/91224580/teens-are-discovering-conspiracy-theories-on-social-media
   - HN discussion: https://news.ycombinator.com/item?id=42128933
+- https://euvsdisinfo.eu/
 
 ## Concepts and definitions
 
