@@ -95,6 +95,14 @@
 - https://www.osintcombine.com/post/investigating-disinformation-online-using-osint
 - https://www.eeas.europa.eu/sites/default/files/documents/2024/EEAS-DataTeam-OsintGuidelines-04-Digital.pdf
 - https://openmeasures.io/
+- https://crestresearch.ac.uk/comment/osint-vs-disinformation-the-information-threats-arms-race/
+- https://www.tandfonline.com/doi/full/10.1080/21582041.2019.1569714
+- https://www.sciencedirect.com/science/article/abs/pii/S1051200423000787
+- https://www.maritime.dot.gov/msci/2022-005-various-gps-interference-ais-spoofing
+- https://www.foreignaffairs.com/world/open-secrets-ukraine-intelligence-revolution-amy-zegart
+- https://crestresearch.ac.uk/categories/behavioural-analytics/
+- https://crestresearch.ac.uk/categories/ideology/
+- https://crestresearch.ac.uk/categories/disinformation/
 
 ## Concepts and definitions
 
