@@ -107,6 +107,7 @@
 - https://dad-cdm.org/
   - https://github.com/DAD-CDM
 - https://www.fdd.org/analysis/op_eds/2024/04/30/navigating-the-nexus-between-cyber-operations-and-influence-operations/
+- https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Tom%20Cross%20Greg%20Conti%20-%20Deception%20%26%20Counter%20Deception%20-%20Defending%20Yourself%20in%20a%20World%20Full%20of%20Lies.pdf
 
 ## Concepts and definitions
 
