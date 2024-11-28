@@ -93,6 +93,8 @@
   - HN discussion: https://news.ycombinator.com/item?id=42128933
 - https://euvsdisinfo.eu/
 - https://www.osintcombine.com/post/investigating-disinformation-online-using-osint
+- https://www.eeas.europa.eu/sites/default/files/documents/2024/EEAS-DataTeam-OsintGuidelines-04-Digital.pdf
+- https://openmeasures.io/
 
 ## Concepts and definitions
 
