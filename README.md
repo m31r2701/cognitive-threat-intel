@@ -106,6 +106,7 @@
 - https://www.dni.gov/files/documents/FOIA/DF-2022-00242-The-Games-They-Play-Russian-Strategic-Political-Deceptions.pdf
 - https://dad-cdm.org/
   - https://github.com/DAD-CDM
+- https://www.fdd.org/analysis/op_eds/2024/04/30/navigating-the-nexus-between-cyber-operations-and-influence-operations/
 
 ## Concepts and definitions
 
