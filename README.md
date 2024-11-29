@@ -108,6 +108,11 @@
   - https://github.com/DAD-CDM
 - https://www.fdd.org/analysis/op_eds/2024/04/30/navigating-the-nexus-between-cyber-operations-and-influence-operations/
 - https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Tom%20Cross%20Greg%20Conti%20-%20Deception%20%26%20Counter%20Deception%20-%20Defending%20Yourself%20in%20a%20World%20Full%20of%20Lies.pdf
+- https://www.fdd.org/analysis/2024/09/05/fdd-identifies-19-websites-as-part-of-an-iranian-global-influence-operation/
+- https://blog.sekoia.io/iran-cyber-threat-overview/
+- https://www.memeticwarfare.io/p/iranian-io-domains-sneak-peek
+- https://blog.sekoia.io/master-of-puppets-uncovering-the-doppelganger-pro-russian-influence-campaign/
+- https://www.justice.gov/opa/media/1366266/dl
 
 ## Concepts and definitions
 
