@@ -114,6 +114,7 @@
 - https://blog.sekoia.io/master-of-puppets-uncovering-the-doppelganger-pro-russian-influence-campaign/
 - https://www.justice.gov/opa/media/1366266/dl
 - https://www.ribbonfarm.com/2016/02/25/the-epic-struggle-between-good-and-neutral/
+- https://www.science.org/doi/10.1126/science.adl2829
 
 ## Concepts and definitions
 
