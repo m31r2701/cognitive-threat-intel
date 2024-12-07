@@ -115,6 +115,16 @@
 - https://www.justice.gov/opa/media/1366266/dl
 - https://www.ribbonfarm.com/2016/02/25/the-epic-struggle-between-good-and-neutral/
 - https://www.science.org/doi/10.1126/science.adl2829
+- https://nixintel.info/osint/digging-into-russian-disinfo-infrastructure/
+- https://www.hackingbutlegal.com/p/russias-information-warfare-what
+- https://www.memeticwarfare.io/p/kek-performance-indicators
+- https://www.memeticwarfare.io/p/host-of-operations-past
+- https://www.foreignaffairs.com/united-states/lies-russia-tells-itself
+- https://www.memeticwarfare.io/p/talk-to-me-in-bash-talk-to-me-in
+- https://www.memeticwarfare.io/p/memetic-warfare-and-its-the-same
+- https://www.memeticwarfare.io/p/a-cruel-threat-actors-thesis
+- https://www.memeticwarfare.io/p/the-rise-and-fall-of-a-mideastern
+- https://www.hackingbutlegal.com/p/disinformation-for-infosec-wonks
 
 ## Concepts and definitions
 
