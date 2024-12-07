@@ -127,6 +127,11 @@
 - https://www.hackingbutlegal.com/p/disinformation-for-infosec-wonks
 - https://www.skopenow.com/news/navigating-false-information-during-osint
 - https://digitalinvestigations.substack.com/p/a-look-at-the-information-laundromat
+- https://www.osintcombine.com/post/investigating-spam-and-clickbait-networks
+- https://digitalinvestigations.substack.com/p/a-guide-to-investigating-digital
+- https://www.osintcombine.com/post/how-to-spot-a-fake-analysing-inauthentic-content
+- https://www.osintcombine.com/post/from-voices-to-vulnerabilities-how-osint-can-help
+- https://weaponizedspaces.substack.com/p/watch-breaking-down-russias-disinformation
 
 ## Concepts and definitions
 
