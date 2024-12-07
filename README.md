@@ -126,6 +126,7 @@
 - https://www.memeticwarfare.io/p/the-rise-and-fall-of-a-mideastern
 - https://www.hackingbutlegal.com/p/disinformation-for-infosec-wonks
 - https://www.skopenow.com/news/navigating-false-information-during-osint
+- https://digitalinvestigations.substack.com/p/a-look-at-the-information-laundromat
 
 ## Concepts and definitions
 
