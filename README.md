@@ -125,6 +125,7 @@
 - https://www.memeticwarfare.io/p/a-cruel-threat-actors-thesis
 - https://www.memeticwarfare.io/p/the-rise-and-fall-of-a-mideastern
 - https://www.hackingbutlegal.com/p/disinformation-for-infosec-wonks
+- https://www.skopenow.com/news/navigating-false-information-during-osint
 
 ## Concepts and definitions
 
