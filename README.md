@@ -132,6 +132,14 @@
 - https://www.osintcombine.com/post/how-to-spot-a-fake-analysing-inauthentic-content
 - https://www.osintcombine.com/post/from-voices-to-vulnerabilities-how-osint-can-help
 - https://weaponizedspaces.substack.com/p/watch-breaking-down-russias-disinformation
+- https://www.memeticwarfare.io/p/croissantposting
+- https://newsroom.tiktok.com/en-eu/continuing-to-protect-the-integrity-of-tiktok-during-romanian-elections
+- https://techletters.substack.com/p/techletters-insight-promotionalinfluence
+- https://www.taylorfrancis.com/books/oa-edit/10.4324/9781032647463/conspiracy-theories-el%C5%BCbieta-dr%C4%85%C5%BCkiewicz-jaron-harambam
+- https://arxiv.org/abs/2406.08651
+- https://toolbox.google.com/factcheck/markuptool
+- https://blog.sociallinks.io/how-to-recognize-ai-generated-pictures-videos-and-audio/
+- https://www.propublica.org/article/facebook-instagram-meta-deceptive-political-ads-election
 
 ## Concepts and definitions
 
