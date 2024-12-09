@@ -140,6 +140,7 @@
 - https://toolbox.google.com/factcheck/markuptool
 - https://blog.sociallinks.io/how-to-recognize-ai-generated-pictures-videos-and-audio/
 - https://www.propublica.org/article/facebook-instagram-meta-deceptive-political-ads-election
+- https://arxiv.org/abs/2410.22716
 
 ## Concepts and definitions
 
