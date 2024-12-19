@@ -145,6 +145,7 @@
 - https://hoaxy.osome.iu.edu/
 - https://www.disinfo.eu/publications/how-to-detect-and-analyse-identity-based-disinformation-fimi/
 - https://chromewebstore.google.com/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe
+- https://www.sgdsn.gouv.fr/files/files/Publications/20230719_NP_VIGINUM_RAPPORT-CAMPAGNE-RRN_EN.pdf
 
 ## Concepts and definitions
 
